@@ -1,0 +1,50 @@
+Tipo de datos basicos en python
+
+
+int -> numeros enteros. Ej: 5
+bool -> tipos booleanos. Ej. True o False
+float -> tipos float -> nro de coma flotante en nros racionales. ej. 3.14
+str -> tipos cadenas -> Ej. 'Hola'
+
+Comparaciones
+
+--> Siempre devuelve como resultado un valor booleano
+
+igual (==)
+mayor (>)
+mayor o igual (>=)
+menor (<)
+menor o igual (<=)
+distinto (!=)
+
+Operaciones Logicas
+
+(and)
+
+F and V -> F
+V and F -> F
+V and V -> V
+F and F -> F
+
+
+(or)
+
+F or V -> V
+V or F -> V
+V or V -> V
+F or F -> F
+
+
+
+Tipos de datos estructurados
+
+Listas -> []
+
+lista.append(elemento) -> agrega un elemento al final de la lista
+lista.insert(posicion, elemento) -> agrega un elemento en la posicion indicada
+del lista[posicion] -> elimina un elemento en esa posicion
+lista.remove(elemento) -> elimina el elemento indicado
+len(lista) -> devuelve la cantidad de elementos de la lista
+lista[posicion] = elemento -> asigna un nuevo valor
+
+
